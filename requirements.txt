@@ -1,0 +1,13 @@
+# Tested on Python 3.9 with the versions in the comments.
+numpy            # 2.0.2
+scipy            # 1.13.1
+imageio          # 2.37.2
+matplotlib       # 3.9.4
+pillow           # 11.3.0  (GIF output)
+scikit-image     # 0.24.0
+networkx         # 3.2.1
+natsort          # 8.4.0
+rawpy            # 0.27.0  (RAW images)
+opencv-python    # 5.0.0   (levelling, lens correction, ArUco scale)
+lensfunpy        # 1.17.0  (lens correction)
+torch            # 2.8.0   (install the CUDA build from pytorch.org for GPU use)

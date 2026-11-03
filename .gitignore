@@ -1,0 +1,22 @@
+# Output of the scripts
+results/
+validation_results/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Images and measurement data belong outside the repository
+*.ARW
+*.arw
+*.tif
+*.tiff
+*.npz
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
